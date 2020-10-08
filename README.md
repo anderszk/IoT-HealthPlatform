@@ -1,2 +1,14 @@
-# IELET2001-Kontroll--og-overv-kningsplattform
-Prosjektoppgave IELET2001
+# TCP-Socket-Programming
+
+**IELET2001: Datakommunikasjon** <br>
+**Group 11**
+
+
+| Name  | Username |    
+| ------------- | ------------- | 
+| **Henrik Aamodt**  | aahenrik  | 
+| **Håvard Kalliainen**  | haavardnk  | 
+| **Anders Kristensen**  | anderszk  | 
+| **Sacit Senkaya**  | sacitali  | 
+<br>
+
