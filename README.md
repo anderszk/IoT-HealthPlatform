@@ -1,4 +1,4 @@
-# TCP-Socket-Programming
+# Project
 
 **IELET2001: Datakommunikasjon** <br>
 **Group 11**
