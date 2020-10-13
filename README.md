@@ -1,4 +1,4 @@
-# Project
+# Prosjekt
 
 **IELET2001: Datakommunikasjon** <br>
 **Group 11**
