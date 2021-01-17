@@ -1,6 +1,6 @@
 # Prosjekt
 
-**IELET2001: Datakommunikasjon** <br>
+**Datakommunikasjon** <br>
 **Group 11**
 
 
